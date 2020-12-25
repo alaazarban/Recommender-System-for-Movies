@@ -3,5 +3,5 @@ The purpose of this project is to build a recommender systems with Python. In th
 
 This basic recommendation system is going to suggest items that are most similar to a particular item, in this case, movies. 
 
-check the notebook (https://github.com/alaazarban/Recommender-System-for-Movies/blob/main/Recommender%20Systems%20with%20Python.ipynb)
+[check the notebook] (https://github.com/alaazarban/Recommender-System-for-Movies/blob/main/Recommender%20Systems%20with%20Python.ipynb)
 
